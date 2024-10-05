@@ -1,16 +1,32 @@
-# demoapp
+PROCEApp
 
-A new Flutter project.
+PROCEApp is a modern e-commerce platform built by Ekwuazi Progress with Flutter during tutorship in Power Learn Project Africa (May 2024 Cohort). It offers a seamless shopping experience. The app features a catalog of products, a shopping cart, and a checkout process with multiple payment options. 
 
-## Getting Started
+Designed to provide a smooth and intuitive interface, PROCEApp helps users browse, shop, and manage their orders easily.
 
-This project is a starting point for a Flutter application.
+Features
 
-A few resources to get you started if this is your first Flutter project:
+Product Catalog: Browse a variety of products, including detailed descriptions and images.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Search Functionality: Search products by name and description.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Shopping Cart: Add products to your cart and view them before checkout.
+
+Checkout Process: Review your cart, view the total cost, and proceed to payment.
+
+
+Multiple Payment Methods: Pay via:
+
+Digital Wallets (e.g., PayPal, Google Pay)
+
+
+Bank Transfers
+
+MasterCard, Visa, and Verve cards
+
+Double Confirmation: A double-confirmation prompt before completing the purchase for added security.
+
+User Authentication: Signup/Register.
+
+
+There is plenty room for improvements, this is just a tip of the iceberg.
