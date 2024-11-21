@@ -1,6 +1,6 @@
 PROCEApp
 
-PROCEApp is a modern e-commerce platform built by Ekwuazi Progress with Flutter during tutorship in Power Learn Project Africa (May 2024 Cohort). It offers a seamless shopping experience. The app features a catalog of products, a shopping cart, and a checkout process with multiple payment options. 
+PROCEApp is a modern e-commerce platform built by Ekwuazi Progress and Fidelis Waitimu with Flutter during tutorship in Power Learn Project Africa (May 2024 Cohort). It offers a seamless shopping experience. The app features a catalog of products, a shopping cart, and a checkout process with multiple payment options. 
 
 Designed to provide a smooth and intuitive interface, PROCEApp helps users browse, shop, and manage their orders easily.
 
